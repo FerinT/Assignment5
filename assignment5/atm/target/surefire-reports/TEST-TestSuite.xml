@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite failures="0" time="0.234" errors="0" skipped="0" tests="16" name="TestSuite">
+<testsuite failures="0" time="0.253" errors="0" skipped="0" tests="19" name="TestSuite">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/i386"/>
@@ -14,7 +14,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.os.patch.level" value="unknown"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="/home/student/IdeaProjects/assignment5"/>
+    <property name="user.dir" value="/home/student/Assignment5/assignment5"/>
     <property name="java.runtime.version" value="1.7.0_75-b13"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
     <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-7-openjdk-i386/jre/lib/endorsed"/>
@@ -64,14 +64,17 @@
   <testcase time="0" classname="com.ferin.TestAccount" name="testCreditMethod"/>
   <testcase time="0" classname="com.ferin.TestAccount" name="testDebit"/>
   <testcase time="0" classname="com.ferin.TestAccount" name="testSavings"/>
-  <testcase time="0" classname="com.ferin.TestClient" name="testData"/>
-  <testcase time="0.001" classname="com.ferin.TestClient" name="testExisits"/>
+  <testcase time="0" classname="com.ferin.TestBank" name="testObjectChange"/>
+  <testcase time="0" classname="com.ferin.TestBank" name="testObjectCopy"/>
+  <testcase time="0" classname="com.ferin.TestBank" name="testObjectCreation"/>
+  <testcase time="0.001" classname="com.ferin.TestClient" name="testData"/>
+  <testcase time="0" classname="com.ferin.TestClient" name="testExisits"/>
   <testcase time="0" classname="com.ferin.TestClient" name="testNullness"/>
   <testcase time="0" classname="com.ferin.TestClient" name="testOutput"/>
   <testcase time="0.001" classname="com.ferin.TestTransaction" name="testBalanceEnq"/>
   <testcase time="0" classname="com.ferin.TestTransaction" name="testChain"/>
   <testcase time="0" classname="com.ferin.TestTransaction" name="testDeposit"/>
-  <testcase time="0" classname="com.ferin.TestTransaction" name="testNullness"/>
+  <testcase time="0.001" classname="com.ferin.TestTransaction" name="testNullness"/>
   <testcase time="0" classname="com.ferin.TestTransaction" name="testTransaction"/>
-  <testcase time="0.001" classname="com.ferin.TestTransaction" name="testWithdraw"/>
+  <testcase time="0" classname="com.ferin.TestTransaction" name="testWithdraw"/>
 </testsuite>

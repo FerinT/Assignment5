@@ -3,6 +3,7 @@
 <suite verbose="0" name="Failed suite [Command line suite]">
   <test name="Command line test" preserve-order="false">
     <classes>
+      <class name="com.ferin.TestBank"/>
       <class name="com.ferin.TestTransaction"/>
       <class name="com.ferin.TestClient"/>
       <class name="com.ferin.TestAccount"/>

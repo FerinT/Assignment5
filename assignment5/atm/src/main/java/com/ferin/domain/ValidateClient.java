@@ -1,7 +1,7 @@
 package com.ferin.domain;
 
 
-import com.ferin.Menu;
+import com.ferin.services.DisplayScreen;
 
 public abstract class ValidateClient {
 
@@ -14,9 +14,9 @@ public abstract class ValidateClient {
 
     public static void isValid(String cardNumber, String pin) {
         if(validateClient(cardNumber, pin)) {
-            Menu menu = new Menu();
-            menu.displayMenu();
-            menu.getTransaction();
+            DisplayScreen displayScreen = new DisplayScreen();
+            displayScreen.displayMenu();
+            displayScreen.getTransaction();
         }
         else
             System.out.println("invalid pin");
