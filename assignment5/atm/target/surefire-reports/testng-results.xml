@@ -2,90 +2,90 @@
 <testng-results skipped="0" failed="0" total="19" passed="19">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="27" started-at="2016-04-03T15:43:00Z" finished-at="2016-04-03T15:43:00Z">
+  <suite name="Command line suite" duration-ms="23" started-at="2016-04-06T21:31:41Z" finished-at="2016-04-06T21:31:41Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="27" started-at="2016-04-03T15:43:00Z" finished-at="2016-04-03T15:43:00Z">
+    <test name="Command line test" duration-ms="23" started-at="2016-04-06T21:31:41Z" finished-at="2016-04-06T21:31:41Z">
       <class name="com.ferin.TestTransaction">
-        <test-method status="PASS" signature="testBalanceEnq()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testBalanceEnq" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testBalanceEnq()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testBalanceEnq" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBalanceEnq -->
-        <test-method status="PASS" signature="testChain()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testChain" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testChain()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testChain" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testChain -->
-        <test-method status="PASS" signature="testNullness()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testNullness" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testNullness()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testNullness" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testNullness -->
-        <test-method status="PASS" signature="testDeposit()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testDeposit" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testDeposit()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testDeposit" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDeposit -->
-        <test-method status="PASS" signature="testTransaction()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testTransaction" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testTransaction()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testTransaction" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testTransaction -->
-        <test-method status="PASS" signature="testWithdraw()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testWithdraw" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testWithdraw()[pri:0, instance:com.ferin.TestTransaction@11d221e]" name="testWithdraw" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testWithdraw -->
       </class> <!-- com.ferin.TestTransaction -->
       <class name="com.ferin.TestClient">
-        <test-method status="PASS" signature="testData()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testData" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testData -->
-        <test-method status="PASS" signature="testNullness()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testNullness" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testNullness -->
-        <test-method status="PASS" signature="testExisits()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testExisits" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testExisits()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testExisits" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testExisits -->
-        <test-method status="PASS" signature="testOutput()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testOutput" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testData()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testData" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testData -->
+        <test-method status="PASS" signature="testOutput()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testOutput" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testOutput -->
+        <test-method status="PASS" signature="testNullness()[pri:0, instance:com.ferin.TestClient@1aaf194]" name="testNullness" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNullness -->
       </class> <!-- com.ferin.TestClient -->
       <class name="com.ferin.TestBank">
-        <test-method status="PASS" signature="testObjectChange()[pri:0, instance:com.ferin.TestBank@7ac6c]" name="testObjectChange" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testObjectChange()[pri:0, instance:com.ferin.TestBank@7ac6c]" name="testObjectChange" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testObjectChange -->
-        <test-method status="PASS" signature="testObjectCopy()[pri:0, instance:com.ferin.TestBank@7ac6c]" name="testObjectCopy" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testObjectCopy -->
-        <test-method status="PASS" signature="testObjectCreation()[pri:0, instance:com.ferin.TestBank@7ac6c]" name="testObjectCreation" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testObjectCreation()[pri:0, instance:com.ferin.TestBank@7ac6c]" name="testObjectCreation" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testObjectCreation -->
+        <test-method status="PASS" signature="testObjectCopy()[pri:0, instance:com.ferin.TestBank@7ac6c]" name="testObjectCopy" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testObjectCopy -->
       </class> <!-- com.ferin.TestBank -->
       <class name="com.ferin.TestAccount">
-        <test-method status="PASS" signature="testBuilder()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testBuilder" duration-ms="6" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testBuilder()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testBuilder" duration-ms="6" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testBuilder -->
-        <test-method status="PASS" signature="testCheque()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testCheque" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testCheque()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testCheque" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCheque -->
-        <test-method status="PASS" signature="testCredit()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testCredit" duration-ms="1" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testCredit()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testCredit" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCredit -->
-        <test-method status="PASS" signature="testCreditMethod()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testCreditMethod" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testCreditMethod()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testCreditMethod" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCreditMethod -->
-        <test-method status="PASS" signature="testDebit()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testDebit" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testDebit()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testDebit" duration-ms="0" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testDebit -->
-        <test-method status="PASS" signature="testSavings()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testSavings" duration-ms="0" started-at="2016-04-03T17:43:00Z" finished-at="2016-04-03T17:43:00Z">
+        <test-method status="PASS" signature="testSavings()[pri:0, instance:com.ferin.TestAccount@1da5362]" name="testSavings" duration-ms="1" started-at="2016-04-06T23:31:41Z" finished-at="2016-04-06T23:31:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testSavings -->
