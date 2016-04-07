@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="20" started-at="2016-04-07T19:30:56Z" finished-at="2016-04-07T19:30:56Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="20" started-at="2016-04-07T19:30:56Z" finished-at="2016-04-07T19:30:56Z">
+      <class name="com.ferin.TestTransaction">
+        <test-method status="PASS" signature="testBalanceEnquiry()[pri:0, instance:com.ferin.TestTransaction@e8ef4c]" name="testBalanceEnquiry" duration-ms="1" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testBalanceEnquiry -->
+        <test-method status="PASS" signature="testWithdraw()[pri:0, instance:com.ferin.TestTransaction@e8ef4c]" name="testWithdraw" duration-ms="0" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWithdraw -->
+        <test-method status="PASS" signature="testTransfer()[pri:0, instance:com.ferin.TestTransaction@e8ef4c]" name="testTransfer" duration-ms="0" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTransfer -->
+      </class> <!-- com.ferin.TestTransaction -->
+      <class name="com.ferin.TestClient">
+        <test-method status="PASS" signature="testNull()[pri:0, instance:com.ferin.TestClient@1a2760f]" name="testNull" duration-ms="1" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNull -->
+        <test-method status="PASS" signature="testPremium()[pri:0, instance:com.ferin.TestClient@1a2760f]" name="testPremium" duration-ms="1" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPremium -->
+        <test-method status="PASS" signature="testUpdate()[pri:0, instance:com.ferin.TestClient@1a2760f]" name="testUpdate" duration-ms="1" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdate -->
+        <test-method status="PASS" signature="testStandard()[pri:0, instance:com.ferin.TestClient@1a2760f]" name="testStandard" duration-ms="0" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStandard -->
+      </class> <!-- com.ferin.TestClient -->
+      <class name="com.ferin.TestAccount">
+        <test-method status="PASS" signature="testChange()[pri:0, instance:com.ferin.TestAccount@f4d6b3]" name="testChange" duration-ms="6" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testChange -->
+        <test-method status="PASS" signature="testClassOrigin()[pri:0, instance:com.ferin.TestAccount@f4d6b3]" name="testClassOrigin" duration-ms="0" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClassOrigin -->
+        <test-method status="PASS" signature="testNull()[pri:0, instance:com.ferin.TestAccount@f4d6b3]" name="testNull" duration-ms="0" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNull -->
+        <test-method status="PASS" signature="testStudent()[pri:0, instance:com.ferin.TestAccount@f4d6b3]" name="testStudent" duration-ms="0" started-at="2016-04-07T21:30:56Z" finished-at="2016-04-07T21:30:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStudent -->
+      </class> <!-- com.ferin.TestAccount -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
